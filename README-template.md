@@ -33,4 +33,4 @@ Users should be able to:
 ## Author
 
 - Website - [FAQ Accordeon](https://github.com/BarbareUgrekhelidze/FAQ-Accordeon.git)
-- Frontend Mentor - [@BarbareUgrekhelidze](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@BarbareUgrekhelidze](https://www.frontendmentor.io/profile/BarbareUgrekhelidze)
