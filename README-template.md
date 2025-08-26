@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/barbare999/FAQ-Accordeon.git)
-- Live Site URL: [Add live site URL here](https://barbare999.github.io/FAQ-Accordeon/)
+- Solution URL: [Add solution URL here](https://github.com/BarbareUgrekhelidze/FAQ-Accordeon.git)
+- Live Site URL: [Add live site URL here](https://BarbareUgrekhelidze.github.io/FAQ-Accordeon/)
 
 ### Built with
 
@@ -32,5 +32,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [FAQ Accordeon](https://github.com/barbare999/FAQ-Accordeon.git)
+- Website - [FAQ Accordeon](https://github.com/BarbareUgrekhelidze/FAQ-Accordeon.git)
 - Frontend Mentor - [@BarbareUgrekhelidze](https://www.frontendmentor.io/profile/yourusername)
